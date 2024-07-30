@@ -1,8 +1,0 @@
-1. add lat and long data to camera_address_to_id json via open opencage
-    -get opencage api key
-    -find out how opencage needs addys to be formated
-    -script to do so
-
-2. script return adresses of nearby cameras to user input
-    -fucnt returns a list of cameras in arg mile radius
-    -that list goes to fetch_image.py where we get a for each loop to call the apis for each of the addys
