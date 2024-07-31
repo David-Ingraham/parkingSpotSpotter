@@ -14,7 +14,7 @@ import csv
 """
 
 """
-# Initialize the WebDriver (you may need to specify the path to your driver)
+# Initialize the WebDriver 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
