@@ -120,7 +120,7 @@ def scrape_page():
         #print('*' * 60)
         #print("\n")
         
-        # Store the address and API URL in the dictionary
+        # Store the address and cmaera id to the dict
         address_api_dict[address] = api_url.split('/')[-2]
         
         # Close the popup
