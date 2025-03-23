@@ -21,15 +21,15 @@ def main():
         return
 
     # Get user input
-    user_address = input("Enter the address: ")
-    radius = float(input("Enter the radius in miles (default is 0.5 miles): ") or 0.5)
+    user_address = input("Enter the address in this format YORK AVENUE @ EAST 60 STREET: ")
+    radius = float(input("Enter the radius in miles you're willing to drive (default is 0.5 miles): ") or 0.5)
 
     # Load camera data
     camera_data_file = 'camera_id_lat_lng.json'
     try:
         with open(camera_data_file, 'r') as f:
             camera_data = json.load(f)
-    except Exception as e:
+    except Exception as e
         print(f"Failed to load camera data JSON: {e}")
         return
 
