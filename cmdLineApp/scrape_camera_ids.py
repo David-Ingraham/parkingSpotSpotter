@@ -14,7 +14,7 @@ import csv
 """
 
 """
-# Initialize the WebDriver (you may need to specify the path to your driver)
+# Initialize the WebDriver 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
@@ -120,7 +120,7 @@ def scrape_page():
         #print('*' * 60)
         #print("\n")
         
-        # Store the address and API URL in the dictionary
+        # Store the address and cmaera id to the dict
         address_api_dict[address] = api_url.split('/')[-2]
         
         # Close the popup
