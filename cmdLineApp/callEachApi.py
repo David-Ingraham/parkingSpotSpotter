@@ -15,10 +15,10 @@ for address, camera in camera_data.items():
 
     print(f'addres :{address}')
 
-    print(f'camer :{camera}')
+    print(f'camer :{camera}') 
     address = sanitize(address)
 
-    fetch_and_save_image(camera,address,utc_now)
+    fetch_and_save_image(camera,utc_now, address)
 
 
 
