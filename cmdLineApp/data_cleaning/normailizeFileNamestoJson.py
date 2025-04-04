@@ -7,7 +7,7 @@ def swap_spaces_for_unsersc():
     output_file = 'cleaned_json.json'
     def reformat_key(key):
         street_part = key.split(',')[0]
-        return street_part.replace(' @ ', '_').replace(' ', '_')
+        return street_part.replace(' @ ', '_').replace(' ', '_').replace('@', '_')
 
     with open(input_file, 'r') as f:
         data = json.load(f)
@@ -22,17 +22,39 @@ def swap_spaces_for_unsersc():
 
 
 def periodRemover():
-    file_path = 'cleaned_data.json'
+    file_path = 'cleaned_json.json'
 
     with open(file_path,'r') as f:
         data = json.load(f)
 
-    _json = {k.replace('.', ''): v for k, v in data.items()}
+    _json = {k.replace('.', '_'): v for k, v in data.items()}
 
     with open(file_path, 'w') as f:
         json.dump(_json, f, indent=2)
-    
-    
+
+def doulbeRemoverFrome_json():
+    file_path = 'cleaned_json.json'
+
+    with open(file_path,'r') as f:
+        data = json.load(f)
+
+    _json = {k.replace('__', '_'): v for k, v in data.items()}
+
+    with open(file_path, 'w') as f:
+        json.dump(_json, f, indent=2)
+
+
+
+def backslashRemoverFromjson():
+    file_path = 'cleaned_json.json'
+
+    with open(file_path,'r') as f:
+        data = json.load(f)
+
+    _json = {k.replace('/', '_'): v for k, v in data.items()}
+
+    with open(file_path, 'w') as f:
+        json.dump(_json, f, indent=2)
 
 
 
@@ -81,7 +103,12 @@ def  main():
 
     #swap_spaces_for_unsersc()
 
-    doubleUnderscoreRemover()
+    #doubleUnderscoreRemover()
+
+    periodRemover()
+
+    doulbeRemoverFrome_json()
+    backslashRemoverFromjson()
 
     #removebadCameras()
 

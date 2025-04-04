@@ -1,0 +1,7 @@
+@ symbol still fucking up the matching between images in folder 
+and keys from ther camera dict(json), line 1009  in the json
+
+
+McDonald_Ave_10th_Ave___20th_St
+
+has three underscores 
