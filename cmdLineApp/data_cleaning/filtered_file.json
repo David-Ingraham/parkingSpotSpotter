@@ -1,0 +1,1007 @@
+{
+  "1_Ave_110_St": {
+    "camera_id": "f2b94b32-fc41-42b6-935d-8330374ca05a",
+    "latitude": 40.7921889,
+    "longitude": -73.9382057
+  },
+  "1_Ave_124_St": {
+    "camera_id": "38c07664-0329-471e-997f-6a9015a5bcef",
+    "latitude": 40.8009822,
+    "longitude": -73.9317753
+  },
+  "1_Ave_14_St": {
+    "camera_id": "23994d9e-7e59-4808-8d47-405f779d19cf",
+    "latitude": 40.73134690000001,
+    "longitude": -73.98257
+  },
+  "1_Ave_57_st": {
+    "camera_id": "79f45918-c13e-4357-9ccb-9e3e7ea5b6af",
+    "latitude": null,
+    "longitude": null
+  },
+  "1_Ave_62_St": {
+    "camera_id": "aa85b894-336d-42bb-9801-0359e452f845",
+    "latitude": 40.7614857,
+    "longitude": -73.9606064
+  },
+  "1_Ave_84_St": {
+    "camera_id": "330e2a88-3cea-4ce5-b1a2-ae8440de9b1a",
+    "latitude": 40.77557059999999,
+    "longitude": -73.9503442
+  },
+  "1_Ave_86_St": {
+    "camera_id": "f3c6fe0c-75c8-4ce9-ad9a-5b7eb8e9087e",
+    "latitude": 40.7768828,
+    "longitude": -73.9493767
+  },
+  "1_Ave_E_14_St": {
+    "camera_id": "db5f8b82-99b1-45f3-a520-7d1f91d0a49a",
+    "latitude": 40.73134690000001,
+    "longitude": -73.98257
+  },
+  "10_Ave_42_St": {
+    "camera_id": "b55781b8-827c-40e3-b094-27c289d22f7a",
+    "latitude": 40.7596359,
+    "longitude": -73.99547299999999
+  },
+  "10_Ave_57_St": {
+    "camera_id": "d4bbce49-b087-4524-a835-08cb253926a7",
+    "latitude": 40.7691228,
+    "longitude": -73.9885613
+  },
+  "10_Ave_W_34_St": {
+    "camera_id": "2bc8aef2-fc97-47e0-84cd-1efc8ee21bfe",
+    "latitude": 40.7545915,
+    "longitude": -73.99913579999999
+  },
+  "11_Ave_42_St": {
+    "camera_id": "f8e7c70d-bdcb-4394-b55c-d9bcef891fba",
+    "latitude": 40.7607595,
+    "longitude": -73.9982856
+  },
+  "11_Ave_57_St": {
+    "camera_id": "6024ac17-0c26-4435-96e5-560c41b920ad",
+    "latitude": 40.7703078,
+    "longitude": -73.9913925
+  },
+  "2_Ave_42_St": {
+    "camera_id": "8f692f55-8118-423b-8bcb-1ea49eaf442b",
+    "latitude": 40.7498272,
+    "longitude": -73.9722049
+  },
+  "2_Ave_49_St": {
+    "camera_id": "05468f62-4092-4ff5-9bb6-0f70e56ff544",
+    "latitude": 40.7542519,
+    "longitude": -73.9689799
+  },
+  "2_Ave_58_St": {
+    "camera_id": "5b44d19e-de48-4941-b071-d2a4c08bd230",
+    "latitude": 40.7599945,
+    "longitude": -73.96480059999999
+  },
+  "2_Ave_74_St": {
+    "camera_id": "6316453d-6161-4b98-a8e7-0e36c69d267c",
+    "latitude": 40.7701247,
+    "longitude": -73.9574058
+  },
+  "2_Ave_79_St": {
+    "camera_id": "074b4e06-5090-47a5-b672-8b15780c9255",
+    "latitude": 40.7733131,
+    "longitude": -73.95508029999999
+  },
+  "2_AVE_86_St": {
+    "camera_id": "ac9ea7e9-4ab8-4188-be33-40266bcf9378",
+    "latitude": 40.7778877,
+    "longitude": -73.9517667
+  },
+  "2_Ave_E_14_St": {
+    "camera_id": "02d7db8e-481d-477e-9cdb-a2b6c6ec1ca3",
+    "latitude": 40.732367,
+    "longitude": -73.9849338
+  },
+  "3_Ave_114_St": {
+    "camera_id": "d67e45e9-034f-4bd9-9bc3-12d07a12af48",
+    "latitude": 40.8096216,
+    "longitude": -73.9293598
+  },
+  "3_Ave_14_St": {
+    "camera_id": "63bf5db0-582d-4482-ad51-52338c7f9906",
+    "latitude": 40.6685455,
+    "longitude": -73.9933326
+  },
+  "3_Ave_23_St": {
+    "camera_id": "9cc8495e-aeee-4759-adba-5a6bf5efd4b9",
+    "latitude": 40.66291620000001,
+    "longitude": -73.99903619999999
+  },
+  "3_AVE_34_ST": {
+    "camera_id": "15f7a00b-5afb-4193-a5e4-dfe7710a5dfe",
+    "latitude": 40.6567552,
+    "longitude": -74.00541969999999
+  },
+  "3_Ave_42_St": {
+    "camera_id": "5352e130-4668-4be5-a7b9-9e1ce4ea6d4c",
+    "latitude": 40.6522733,
+    "longitude": -74.0101164
+  },
+  "3_Ave_49_St": {
+    "camera_id": "5bb6d7d8-39ce-43b8-b539-376fbcf73927",
+    "latitude": 40.6481349,
+    "longitude": -74.01383919999999
+  },
+  "3_Ave_57_St": {
+    "camera_id": "62b3062d-542f-40f1-86ec-206710e789b6",
+    "latitude": 40.6438874,
+    "longitude": -74.0188639
+  },
+  "3_AVE_76_St": {
+    "camera_id": "3df06012-4c10-46e1-81d0-55405342e8df",
+    "latitude": 40.6307626,
+    "longitude": -74.02809239999999
+  },
+  "3_Ave_Atlantic_Ave": {
+    "camera_id": "f801cf2f-cd02-4077-aa53-99ee8a00e1ab",
+    "latitude": 40.68533490000001,
+    "longitude": -73.9807122
+  },
+  "3_Ave_E_14_St": {
+    "camera_id": "ebac5b6e-bd3a-4046-926b-7446edab9bee",
+    "latitude": 40.7359256,
+    "longitude": -73.9934074
+  },
+  "3_Ave_E_163_St": {
+    "camera_id": "96636993-475f-46bb-95b6-d5b937065648",
+    "latitude": 40.823872,
+    "longitude": -73.908699
+  },
+  "3_Ave_E_86_St": {
+    "camera_id": "10c5f42d-6b32-4533-9c35-5715af4e4c76",
+    "latitude": null,
+    "longitude": null
+  },
+  "3_Ave_E_88_St": {
+    "camera_id": "4bd443cf-374f-493b-a99e-5f7ef81bb62c",
+    "latitude": 40.6407769,
+    "longitude": -73.9091286
+  },
+  "3_Ave_Union_St": {
+    "camera_id": "ed0f8bd4-fe44-4f86-98a9-91f45b446200",
+    "latitude": 40.67834939999999,
+    "longitude": -73.98544199999999
+  },
+  "3rd_Av_E_156_St_": {
+    "camera_id": "11ce0ee6-349b-4120-a66e-6299d28915f5",
+    "latitude": 40.8201414,
+    "longitude": -73.9130693
+  },
+  "4_Ave_Prospect_Ave-_66_138": {
+    "camera_id": "f419b38e-2b68-4659-a525-d0a31add8528",
+    "latitude": 40.6655548,
+    "longitude": -73.99285840000002
+  },
+  "47_St_Bet_5_Ave_Madison_Ave-_Manhattan": {
+    "camera_id": "9561ad5f-0eda-460b-ab12-41caa4e0a91e",
+    "latitude": 40.741243,
+    "longitude": -73.9874483
+  },
+  "5_Ave_23_St": {
+    "camera_id": "3486cafa-aab2-418a-baa4-89dcc438e8c9",
+    "latitude": 40.7415645,
+    "longitude": -73.989583
+  },
+  "5_Ave_46_St": {
+    "camera_id": "8933100a-8229-42fe-b4b2-265db410d7ae",
+    "latitude": null,
+    "longitude": null
+  },
+  "5_Ave_49_St": {
+    "camera_id": "7a7016c5-a086-40fd-9298-90f17f8b6cea",
+    "latitude": null,
+    "longitude": null
+  },
+  "5_Ave_59_St": {
+    "camera_id": "b5a78bda-3ca9-4ad4-bd03-4cee70baba2d",
+    "latitude": 40.764893,
+    "longitude": -73.972984
+  },
+  "5_Ave_66_St": {
+    "camera_id": "81db80c2-13fe-4ae7-8b47-c08aa42d512f",
+    "latitude": 40.768657,
+    "longitude": -73.96982349999999
+  },
+  "5_Ave_72_St": {
+    "camera_id": "03d9fe0d-7c26-4929-a350-ab0a58a430c6",
+    "latitude": null,
+    "longitude": null
+  },
+  "5_Ave_84_St": {
+    "camera_id": "f2a7f677-64db-4dd9-9810-82e4910c7799",
+    "latitude": null,
+    "longitude": null
+  },
+  "5_Ave_86_St": {
+    "camera_id": "06ea08ec-5cd8-4bd6-9535-502acf651abc",
+    "latitude": 40.7815371,
+    "longitude": -73.9604226
+  },
+  "7_Ave_145_St": {
+    "camera_id": "61890a52-c90e-41a1-b032-d5c6f39746d9",
+    "latitude": 40.8216147,
+    "longitude": -73.93898450000002
+  },
+  "7_Ave_34_St": {
+    "camera_id": "ee1b1d85-e8ce-485f-a539-12962933eb9f",
+    "latitude": 40.7510162,
+    "longitude": -73.9906223
+  },
+  "7_Ave_54_St": {
+    "camera_id": "4ebe49c8-3e68-43f7-b415-da3db9f72693",
+    "latitude": 40.6402206,
+    "longitude": -74.00824589999999
+  },
+  "7_Ave_9_St": {
+    "camera_id": "089d8066-4e5e-4549-9496-a5f4ffb56ef5",
+    "latitude": 40.6668629,
+    "longitude": -73.9815873
+  },
+  "7_Ave_Union_St": {
+    "camera_id": "2064d8ab-597a-45d8-a3c9-5ab95a4e69e6",
+    "latitude": 40.6744747,
+    "longitude": -73.9754604
+  },
+  "7_Ave_NB_Bay_Ridge_Pkwy": {
+    "camera_id": "7a830ac8-1cce-4a85-b3de-44d74900b9bc",
+    "latitude": null,
+    "longitude": null
+  },
+  "8_Ave_49_St": {
+    "camera_id": "4850e464-1111-4b5d-a72d-f54a0e12a789",
+    "latitude": 40.6416859,
+    "longitude": -74.00313179999999
+  },
+  "8_Ave_57_St": {
+    "camera_id": "d78ebdc6-2211-479e-bda6-59d79db20258",
+    "latitude": 40.63720199999999,
+    "longitude": -74.00779010000001
+  },
+  "8_Ave_9_St": {
+    "camera_id": "6851bbf7-e079-4379-b021-e5c7dafcb8c9",
+    "latitude": 40.6657982,
+    "longitude": -73.9791868
+  },
+  "8th_Ave_23_St": {
+    "camera_id": "83b8713b-048f-47a5-a81a-75157e837a4c",
+    "latitude": 40.7453092,
+    "longitude": -73.9984923
+  },
+  "9_Ave_23_St": {
+    "camera_id": "d1c219c0-afdd-4fa4-a72c-cc1b1318b99d",
+    "latitude": 40.746509,
+    "longitude": -74.0013546
+  },
+  "9_Ave_30_St": {
+    "camera_id": "2191c11c-1757-4938-a608-a2c6ae0e6486",
+    "latitude": 40.7509091,
+    "longitude": -73.9981634
+  },
+  "9_Ave_37_St": {
+    "camera_id": "326b2bab-d277-4c5a-9778-a7af791ad151",
+    "latitude": 40.64708050000001,
+    "longitude": -73.9939342
+  },
+  "9_Ave_42_St": {
+    "camera_id": "ccd1abb9-0683-4d93-a62f-b2b121612d28",
+    "latitude": 40.64427329999999,
+    "longitude": -73.99686810000001
+  },
+  "9_Ave_57_St": {
+    "camera_id": "37e2a4b6-2fbd-42f5-9d2d-130b664783f2",
+    "latitude": 40.6358714,
+    "longitude": -74.0055931
+  },
+  "9_Ave_W_39_St": {
+    "camera_id": "9e694610-60f1-4939-a1f9-1679e6408f27",
+    "latitude": 40.7564036,
+    "longitude": -73.99410139999999
+  },
+  "Adam_C_Powell_Blvd_110_St_CPN": {
+    "camera_id": "378e6e98-18b2-42a5-b0fa-b43af94f7395",
+    "latitude": 40.7994079,
+    "longitude": -73.9552008
+  },
+  "Adams_St_Tillary_St": {
+    "camera_id": "5bd248b9-1dab-4118-b4b2-d3ef3fbd7085",
+    "latitude": 40.6961084,
+    "longitude": -73.9885568
+  },
+  "Amsterdam_86_St": {
+    "camera_id": "0b0cbcfb-7c14-4b94-8bac-be494472c396",
+    "latitude": null,
+    "longitude": null
+  },
+  "Amsterdam_Ave_125_St": {
+    "camera_id": "566bce47-4390-4ff3-94ab-7a0ca2989163",
+    "latitude": 40.8133791,
+    "longitude": -73.95626539999999
+  },
+  "Astoria_Blvd_82_St": {
+    "camera_id": "7740c40a-5250-4692-9a1a-c4326dc7d508",
+    "latitude": 40.7650886,
+    "longitude": -73.8870302
+  },
+  "Astoria_Blvd_S_S_R_33_St": {
+    "camera_id": "60793334-580b-4538-b947-7312e95039bf",
+    "latitude": 40.770515,
+    "longitude": -73.917648
+  },
+  "Atlantic_Ave_Barclays_Center": {
+    "camera_id": "053afe02-e1b3-4bea-9995-787e72c7fff4",
+    "latitude": 40.6836635,
+    "longitude": -73.9788191
+  },
+  "Atlantic_Ave_Boerum_St": {
+    "camera_id": "2dcc40fd-3e70-44ba-8c6c-398e9ee4a22d",
+    "latitude": null,
+    "longitude": null
+  },
+  "Atlantic_Ave_Clinton_ST": {
+    "camera_id": "418ae598-7cdd-48ff-8aea-97fc3d312407",
+    "latitude": 40.690249,
+    "longitude": -73.99436659999999
+  },
+  "Atlantic_Ave_Eastern_Pkwy": {
+    "camera_id": "fde1748c-7c0f-4df8-8acd-120df29a9305",
+    "latitude": 40.6762462,
+    "longitude": -73.908151
+  },
+  "Atlantic_Ave_Henry_St": {
+    "camera_id": "821d0c4e-f43f-4968-ad2d-566e40e53df6",
+    "latitude": 40.6907667,
+    "longitude": -73.9962384
+  },
+  "Audobon_Ave_W_181_ST": {
+    "camera_id": "1ccb8d7c-43d4-450e-b40c-79527766db75",
+    "latitude": 40.8487802,
+    "longitude": -73.93231970000001
+  },
+  "Baxter_St_Canal_Street": {
+    "camera_id": "96be7098-dda4-42da-bfe2-55bc5c6b94fb",
+    "latitude": 40.7175577,
+    "longitude": -73.9993077
+  },
+  "Broadway_46_St-_Quad_North": {
+    "camera_id": "f3d82b25-6b10-44c7-ae89-30df075a7ac8",
+    "latitude": null,
+    "longitude": null
+  },
+  "Bruckner_Blvd_Lincoln_Ave": {
+    "camera_id": "82b0f566-cab5-4366-bc3a-67f82cc4fec7",
+    "latitude": 40.80778189999999,
+    "longitude": -73.9295152
+  },
+  "Bushwick_Ave_Cooper_St": {
+    "camera_id": "a8805cdb-e305-42d0-b011-cb825380cf8e",
+    "latitude": 40.6849519,
+    "longitude": -73.91014349999999
+  },
+  "Bushwick_Ave_De_Kalb_Ave": {
+    "camera_id": "068461e2-c62f-4ce4-adac-5f9efe92af1d",
+    "latitude": 40.6952189,
+    "longitude": -73.92843979999999
+  },
+  "Bushwick_Ave_Gates_Ave": {
+    "camera_id": "74707723-013b-4bf1-9a8b-c209dbf71984",
+    "latitude": 40.69094,
+    "longitude": -73.92066729999999
+  },
+  "C2-BQE-29_WB_at_Morgan_Street": {
+    "camera_id": "c18f480c-e7a9-494b-b435-26adb0d9f881",
+    "latitude": null,
+    "longitude": null
+  },
+  "Cadman_Plz_West_Tillary_St": {
+    "camera_id": "07c5a9ab-38b0-4176-a932-395cded5858e",
+    "latitude": 40.6962245,
+    "longitude": -73.99110859999999
+  },
+  "Canal_St_Broadway": {
+    "camera_id": "b6369867-aa5f-4df3-8af3-dcac2eb0dfc8",
+    "latitude": 40.7194052,
+    "longitude": -74.0018891
+  },
+  "Canal_Street_Allen_Street": {
+    "camera_id": "ed12f2da-9f65-44f0-a162-123c412716c6",
+    "latitude": 40.7151234,
+    "longitude": -73.99262139999999
+  },
+  "Central_Park_West_100_St": {
+    "camera_id": "7c9ef8dd-7587-4e39-b486-13ef4c7e5721",
+    "latitude": null,
+    "longitude": null
+  },
+  "Central_Park_West_66_St": {
+    "camera_id": "7e2400e3-cad2-407a-927b-d575a35048e3",
+    "latitude": null,
+    "longitude": null
+  },
+  "Central_Park_West_72_St": {
+    "camera_id": "984ebbad-ca64-41d8-8008-63aaae316952",
+    "latitude": null,
+    "longitude": null
+  },
+  "Central_Park_West_77_St": {
+    "camera_id": "90c74649-458d-4b5f-8f58-9ab77f03f4ad",
+    "latitude": null,
+    "longitude": null
+  },
+  "Central_Park_West_86_St": {
+    "camera_id": "8a6bc417-4877-4ebe-8052-88c1b261baf1",
+    "latitude": 40.7852685,
+    "longitude": -73.9695849
+  },
+  "Central_Park_West_96_St": {
+    "camera_id": "19a2c89d-ea4d-437a-ae0c-2902ade217d6",
+    "latitude": null,
+    "longitude": null
+  },
+  "Church_St_Park_Pl": {
+    "camera_id": "b222af52-75f2-4588-80ef-354bb7c159c8",
+    "latitude": 40.7132551,
+    "longitude": -74.0092488
+  },
+  "Church_Street_Vesey": {
+    "camera_id": "5beee073-18a8-4349-af6b-75eff7a78371",
+    "latitude": 40.7120877,
+    "longitude": -74.0101124
+  },
+  "Claremont_Boston_Rd_": {
+    "camera_id": "1d5b7624-9334-4348-8119-4d0221988d24",
+    "latitude": null,
+    "longitude": null
+  },
+  "Clearview_Northern_Blvd": {
+    "camera_id": "e96fb86f-4bf6-4f97-b7f3-ec4f2e960788",
+    "latitude": null,
+    "longitude": null
+  },
+  "Columbia_St_Carroll_St_-_168_202": {
+    "camera_id": "c073c2d9-919f-4ba3-ad13-d331d378e12b",
+    "latitude": 40.68327,
+    "longitude": -74.003479
+  },
+  "Columbia_St_Degraw_St": {
+    "camera_id": "d3ab8634-97be-4229-9aa3-c3637ff66ea9",
+    "latitude": 40.6857559,
+    "longitude": -74.0023569
+  },
+  "CPW_110_St": {
+    "camera_id": "c217a64e-95c3-4442-96d1-7a6c177615d7",
+    "latitude": null,
+    "longitude": null
+  },
+  "Crescent_st_39_Ave": {
+    "camera_id": "97ace0b4-fcd2-4c3a-8c05-dbf73639ead3",
+    "latitude": 40.7547684,
+    "longitude": -73.93678919999999
+  },
+  "Delancey_St_Bowery_St": {
+    "camera_id": "a3058350-1552-459f-8379-2fd06895e70a",
+    "latitude": 40.7202619,
+    "longitude": -73.9940227
+  },
+  "Delancy_St_Essex_St": {
+    "camera_id": "1f0cfaad-4c0a-46e8-a5e3-f206d83a875d",
+    "latitude": 40.7185592,
+    "longitude": -73.9881894
+  },
+  "Eastern_Pkwy_Bedford_Ave": {
+    "camera_id": "f4c47f52-9c8d-494a-92da-4dcc09a19fab",
+    "latitude": 40.6701749,
+    "longitude": -73.9552561
+  },
+  "Father_Capodanno_Blvd_Ocean_Ave": {
+    "camera_id": "70c286f0-78bc-43e4-9284-63ea2843c769",
+    "latitude": 40.5953374,
+    "longitude": -74.0628918
+  },
+  "Flatbush_Ave_Nostrand_Ave": {
+    "camera_id": "5a9ebe48-fb36-4de7-8666-f50de83c7941",
+    "latitude": 40.6328177,
+    "longitude": -73.9476482
+  },
+  "Flatbush_Ave_Tillary_St": {
+    "camera_id": "6b81f2fd-acf3-4af2-adc1-42250156ece8",
+    "latitude": 40.6961823,
+    "longitude": -73.9858647
+  },
+  "Flatlands_Ave_Ralph_Ave": {
+    "camera_id": "f028f021-adc9-46b9-a18f-813d7b4b2b91",
+    "latitude": 40.6319876,
+    "longitude": -73.9186591
+  },
+  "Flushing_Ave_54_St": {
+    "camera_id": "adc07b1d-e5e1-45da-bfb7-db8a0519f231",
+    "latitude": 40.715127,
+    "longitude": -73.9132891
+  },
+  "Flushing_Ave_61_St": {
+    "camera_id": "8c13c3b4-b227-4278-9beb-e58314c042d5",
+    "latitude": 40.7210414,
+    "longitude": -73.9041044
+  },
+  "Flushing_Ave_Fresh_Pond_Rd": {
+    "camera_id": "b9085289-750b-403a-8031-681678d35ae0",
+    "latitude": 40.7216359,
+    "longitude": -73.9031249
+  },
+  "Flushing_Ave_Navy_St": {
+    "camera_id": "7b0f1486-6c0c-4bd4-ac8b-800c4bf2176e",
+    "latitude": 40.698154,
+    "longitude": -73.97995000000002
+  },
+  "Fort_Hamilton_Pkwy_60_St": {
+    "camera_id": "ddc62c2f-dab2-48e0-918e-742e62e78ec1",
+    "latitude": 40.6331235,
+    "longitude": -74.0056113
+  },
+  "Gatling_Pl_86_St_-_186_2": {
+    "camera_id": "a4fa36ac-f546-4ec1-b579-135f0ab204de",
+    "latitude": 40.6199592,
+    "longitude": -74.0236792
+  },
+  "GCP_166_St": {
+    "camera_id": "858ef4e8-5058-4db2-96e2-70f71b65aa24",
+    "latitude": null,
+    "longitude": null
+  },
+  "GCP_31_ST": {
+    "camera_id": "1e88b34b-2058-402e-9a3d-aca1c57696bf",
+    "latitude": null,
+    "longitude": null
+  },
+  "Gerard_Ave_E_161_St": {
+    "camera_id": "ad051a78-9c50-43b3-bb71-83b091acd818",
+    "latitude": 40.8276829,
+    "longitude": -73.92487899999999
+  },
+  "Gowanus_Expy_49_St": {
+    "camera_id": "2b4ed602-312d-4f31-a531-153ac33b4d87",
+    "latitude": null,
+    "longitude": null
+  },
+  "Grand_Army_Plaza": {
+    "camera_id": "1c51b3ec-3d29-4025-928d-4e182e7c0bd5",
+    "latitude": null,
+    "longitude": null
+  },
+  "Grand_Ave_Hamilton_Pl": {
+    "camera_id": "b08600e6-7189-4104-a484-709dc81a3fa7",
+    "latitude": 40.724155,
+    "longitude": -73.89877299999999
+  },
+  "Grand_Ave_LIE": {
+    "camera_id": "7c92c63b-2786-4600-9108-62cea2806345",
+    "latitude": null,
+    "longitude": null
+  },
+  "Grand_Concourse_161_St": {
+    "camera_id": "a95f7916-24ee-4d7e-bc71-6f9f1e009f23",
+    "latitude": 40.8270297,
+    "longitude": -73.9228664
+  },
+  "Grand_Concourse_Bedford_Park_Blvd": {
+    "camera_id": "2f28f8df-5eb5-4327-ab1f-7feaf2630b34",
+    "latitude": 40.8721527,
+    "longitude": -73.8880703
+  },
+  "Grand_Concourse_E_149_St": {
+    "camera_id": "62380b5a-8960-4c2b-9125-d7f088605a7f",
+    "latitude": 40.8185863,
+    "longitude": -73.9272385
+  },
+  "Grand_Concourse_East_Kingsbridge": {
+    "camera_id": "37d4da40-86d6-4185-bb0f-5b52b4a55c72",
+    "latitude": 40.8659134,
+    "longitude": -73.89429439999999
+  },
+  "Grand_Concourse_Moshulu_Pkwy": {
+    "camera_id": "83d034f2-584b-4dab-9e3d-d70a59995dc5",
+    "latitude": 40.8787203,
+    "longitude": -73.8841573
+  },
+  "Grand_St_Allen_St": {
+    "camera_id": "48cd1b5b-f361-4683-9d83-492d4789d7ea",
+    "latitude": 40.7173484,
+    "longitude": -73.9911805
+  },
+  "Grand_St_Bowery": {
+    "camera_id": "c733e881-862d-4874-9d00-9bfdc3b27cbc",
+    "latitude": null,
+    "longitude": null
+  },
+  "Grand_St_Broadway": {
+    "camera_id": "63e79f0b-7dea-4c8e-864c-f3315f9cc62c",
+    "latitude": 40.720859,
+    "longitude": -74.0006575
+  },
+  "Grand_St_Graham_Ave": {
+    "camera_id": "7609996b-ec61-4c06-bb58-c9aa93c65b80",
+    "latitude": 40.7116602,
+    "longitude": -73.9439151
+  },
+  "Grand_St_Clinton_St": {
+    "camera_id": "42799ffa-1718-43ff-947f-9b678cbf41c5",
+    "latitude": 40.7160009,
+    "longitude": -73.9866845
+  },
+  "Hempstead_Ave_Springfield_Ave": {
+    "camera_id": "5bcf06f4-dbf0-4c7b-b6f3-241aea4e92c6",
+    "latitude": null,
+    "longitude": null
+  },
+  "Holland_Tunnel": {
+    "camera_id": "25ad72fe-e74c-49af-b4c0-34c9eac14655",
+    "latitude": null,
+    "longitude": null
+  },
+  "Houston_St_Bowery_St": {
+    "camera_id": "b95471db-03ed-4fc3-9b91-561328029fd4",
+    "latitude": 40.7241238,
+    "longitude": -73.9926986
+  },
+  "Houston_St_Christies_St": {
+    "camera_id": "444aa32f-8102-4ca6-a7f8-5c9fd8fd5571",
+    "latitude": 40.723734,
+    "longitude": -73.99103579999999
+  },
+  "Hylan_Blvd_Bay_St": {
+    "camera_id": "80976618-bbf8-4e7a-8a9d-095f3594244c",
+    "latitude": 40.614106,
+    "longitude": -74.06613569999999
+  },
+  "Hylan_Blvd_Huguenot_Ave": {
+    "camera_id": "5e7535c0-fee4-4989-8481-0addea488020",
+    "latitude": 40.5239564,
+    "longitude": -74.186072
+  },
+  "Irving_Pl_14_St": {
+    "camera_id": "cd229284-a743-4ac4-9430-366f11e68d6c",
+    "latitude": 40.73396700000001,
+    "longitude": -73.9887913
+  },
+  "Jackson_Ave_21_St": {
+    "camera_id": "8a60eb4e-4069-4c0f-9bca-b8cc52915ffb",
+    "latitude": 40.74486599999999,
+    "longitude": -73.9478311
+  },
+  "Jackson_Ave_42_Rd": {
+    "camera_id": "d1e071f1-57c6-4e6a-b813-0c50b90f7b1a",
+    "latitude": 40.7484811,
+    "longitude": -73.9389113
+  },
+  "Kenmare_St_Cleveland_pl": {
+    "camera_id": "93dea5a7-a63f-4415-ae12-f32b62540f11",
+    "latitude": 40.7214599,
+    "longitude": -73.9974087
+  },
+  "Kissena_Blvd_Holly_Ave": {
+    "camera_id": "ed8fac76-2128-4099-8dfd-80144bd059d4",
+    "latitude": 40.7508916,
+    "longitude": -73.81940639999999
+  },
+  "Kissena_Blvd_Sanford_Ave": {
+    "camera_id": "e85785e6-d889-4811-8ba5-2e389942431f",
+    "latitude": 40.7571392,
+    "longitude": -73.8270695
+  },
+  "Lenox_Ave_135_St": {
+    "camera_id": "f6799b6f-b7f9-451b-8c7a-eacc9e8c36a8",
+    "latitude": 40.8140868,
+    "longitude": -73.9407878
+  },
+  "Lexington_Ave_23_St": {
+    "camera_id": "bff66919-97a3-47ca-b16d-ca07ff93a546",
+    "latitude": 40.7395051,
+    "longitude": -73.98474010000001
+  },
+  "Lexington_Ave_34_St": {
+    "camera_id": "0b4bd3d3-1741-49b3-87cc-d0960fa5f424",
+    "latitude": 40.7463992,
+    "longitude": -73.9797296
+  },
+  "Lexington_Ave_42_St": {
+    "camera_id": "1546f761-039c-4b5c-af5e-75c83c9f603f",
+    "latitude": 40.75145029999999,
+    "longitude": -73.97604919999999
+  },
+  "Lexington_Ave_57_ST": {
+    "camera_id": "180dcc87-d861-43e3-8898-9ad5ee1a26a9",
+    "latitude": 40.7609254,
+    "longitude": -73.9691296
+  },
+  "Lexington_Ave_72_St": {
+    "camera_id": "65440c6b-ee6c-4406-8542-2992b6edf3f5",
+    "latitude": 40.7704246,
+    "longitude": -73.96219719999999
+  },
+  "Lexington_Ave_76_St": {
+    "camera_id": "836186cd-6fba-49d3-86ec-df4973fbae5e",
+    "latitude": 40.773008,
+    "longitude": -73.96032
+  },
+  "Lexington_Ave_96_St": {
+    "camera_id": "f5c6fd9c-8e5b-4c3c-8c3e-31233678f15b",
+    "latitude": 40.7858706,
+    "longitude": -73.950934
+  },
+  "Madison_Ave_42_St": {
+    "camera_id": "d1363c77-e061-4414-be82-e6d749254859",
+    "latitude": 40.7528119,
+    "longitude": -73.9792738
+  },
+  "Madison_Ave_96_St": {
+    "camera_id": "c3cda16b-e979-48bd-8672-4098194d2dbe",
+    "latitude": 40.7872322,
+    "longitude": -73.9541587
+  },
+  "Madison_Ave_E_44_St": {
+    "camera_id": "879ab924-18ac-4779-a681-395d73a0f0cc",
+    "latitude": 40.75376500000001,
+    "longitude": -73.978493
+  },
+  "Main_St_Sanford_Ave": {
+    "camera_id": "33ea5ed1-0d62-4f44-9fda-fda5c2327eed",
+    "latitude": 40.7566599,
+    "longitude": -73.8288057
+  },
+  "Malcolm_X_Blvd_Lenox_Ave_110_St_CPN": {
+    "camera_id": "5e0c441b-7587-494c-aade-6fea9efc1c73",
+    "latitude": 40.8016683,
+    "longitude": -73.9495523
+  },
+  "Manhattan_BBT_Entrance": {
+    "camera_id": "7f89db99-3420-4f7b-9f2a-edfc9014e8c1",
+    "latitude": null,
+    "longitude": null
+  },
+  "McGuinness_Blvd_Green_St": {
+    "camera_id": "195870e2-8714-45c6-86ba-8ae079ef738c",
+    "latitude": 40.7339843,
+    "longitude": -73.95232659999999
+  },
+  "Melrose_Ave_Webster_Ave_E_161": {
+    "camera_id": "8ab7071d-63a6-492a-8443-e0d817bc1339",
+    "latitude": 40.8278122,
+    "longitude": -73.91185759999999
+  },
+  "Metropolitan_Ave_Berry_St": {
+    "camera_id": "40213626-3ef8-4d63-be77-e1d84ca4d19c",
+    "latitude": 40.7159419,
+    "longitude": -73.9619269
+  },
+  "Metropolitan_Ave_Union_Ave": {
+    "camera_id": "ba4a1b3a-6e33-4742-a471-18f204f488ef",
+    "latitude": 40.7140757,
+    "longitude": -73.9516359
+  },
+  "Morningstar_Rd_Walker_St": {
+    "camera_id": "710191bf-5753-49f7-a524-d0db75526600",
+    "latitude": 40.6311642,
+    "longitude": -74.1469163
+  },
+  "Narrows_Rd_South_Hylan_Blvd": {
+    "camera_id": "bfcd953c-3faf-48ea-a49a-848c706399b6",
+    "latitude": 40.605339,
+    "longitude": -74.07607999999999
+  },
+  "Northern_Blvd_108_St": {
+    "camera_id": "822f0cb4-827d-41cd-8f35-2b328a8c1d24",
+    "latitude": 40.7577879,
+    "longitude": -73.86099399999999
+  },
+  "Northern_Blvd_161_St": {
+    "camera_id": "67ef8775-026c-4152-8a81-c7251e0677ca",
+    "latitude": 40.762829,
+    "longitude": -73.805016
+  },
+  "Northern_Blvd_61_St": {
+    "camera_id": "9c4194e4-adfb-4a35-a4ef-c8411459545b",
+    "latitude": 40.7538546,
+    "longitude": -73.9012025
+  },
+  "Northern_Blvd_82_St": {
+    "camera_id": "08c40d18-cacf-4139-aa64-ba8f8602af53",
+    "latitude": 40.7556229,
+    "longitude": -73.8853805
+  },
+  "Northern_Blvd_Bell_Blvd": {
+    "camera_id": "7a183d27-7c22-4014-ac9a-726efa472c79",
+    "latitude": 40.7603147,
+    "longitude": -73.76936719999999
+  },
+  "Northern_Blvd_Francis_Lewis_Blvd": {
+    "camera_id": "a8b56a8b-1451-4290-9d8f-c770f80c855a",
+    "latitude": 40.75771,
+    "longitude": -73.78365
+  },
+  "Northern_Blvd_Junction_Blvd": {
+    "camera_id": "78292730-3cfe-4f84-a6f7-d438f684849a",
+    "latitude": 40.7568508,
+    "longitude": -73.8736834
+  },
+  "Northern_Blvd_Little_Neck_Pkwy": {
+    "camera_id": "a23d8461-9d7c-4e11-a392-777ef35b48ba",
+    "latitude": 40.7706316,
+    "longitude": -73.7354419
+  },
+  "Northern_Blvd_Main_St": {
+    "camera_id": "f664cb82-a0fc-467e-9a6a-ca34c89cc63c",
+    "latitude": 40.762756,
+    "longitude": -73.83223699999999
+  },
+  "Northern_Blvd_Parsons_Blvd": {
+    "camera_id": "40ffec9e-3d55-454f-927e-6a602869a451",
+    "latitude": 40.764611,
+    "longitude": -73.8234691
+  },
+  "Northern_Blvd_Union_St": {
+    "camera_id": "e6ba1d11-d27e-441f-b385-a8ae85a3fc74",
+    "latitude": 40.763867,
+    "longitude": -73.8281506
+  },
+  "Northern_Blvd_Utopia_Pkwy": {
+    "camera_id": "d05b98ae-f2a7-4c26-8238-754081877484",
+    "latitude": 40.757828,
+    "longitude": -73.792564
+  },
+  "Park_Ave_106_St": {
+    "camera_id": "ce81bdbd-967b-4ad0-ab40-c4628bb59560",
+    "latitude": 40.7930317,
+    "longitude": -73.9480086
+  },
+  "Park_Ave_34_St": {
+    "camera_id": "17b6c7dd-2aa7-442a-8832-d39051a47d1b",
+    "latitude": 40.7470462,
+    "longitude": -73.9812644
+  },
+  "Park_Ave_72_St": {
+    "camera_id": "b062d611-e0e8-40be-a180-c583391276f5",
+    "latitude": 40.7711473,
+    "longitude": -73.9639279
+  },
+  "Park_Ave_79_St": {
+    "camera_id": "41397b64-d035-4b41-a03e-170fe4103d89",
+    "latitude": 40.7757207,
+    "longitude": -73.960584
+  },
+  "Park_Ave_86_St": {
+    "camera_id": "b7e5959c-1fc5-4fd2-a73e-426127b587b1",
+    "latitude": 40.7801464,
+    "longitude": -73.95711109999999
+  },
+  "Park_Ave_96_St": {
+    "camera_id": "e73b2210-e5e7-42c0-a48f-5ce07b28da43",
+    "latitude": 40.7865034,
+    "longitude": -73.95242739999999
+  },
+  "Pennsylvania_Ave_Flatlands_Ave": {
+    "camera_id": "69278f3b-9d11-4256-8ef7-70c02a01bfc2",
+    "latitude": 40.6528531,
+    "longitude": -73.8862544
+  },
+  "Queens_Blvd_63_Dr": {
+    "camera_id": "0bf496dc-36dd-4311-808e-84ab6acec605",
+    "latitude": 40.7302853,
+    "longitude": -73.86218389999999
+  },
+  "Queens_Blvd_E_B_43_St": {
+    "camera_id": "60982889-171e-4208-ae1d-8f179f91231e",
+    "latitude": null,
+    "longitude": null
+  },
+  "Queens_Plaza_N_Northern_Blvd": {
+    "camera_id": "a0ecf291-582c-4c42-933f-0b9ed4ce885c",
+    "latitude": 40.7510529,
+    "longitude": -73.9404294
+  },
+  "Riverside_Dr_W_165_St": {
+    "camera_id": "75a7b81a-6233-47bf-8428-ea6c9edec1f8",
+    "latitude": 40.8410519,
+    "longitude": -73.9446959
+  },
+  "Rockaway_Blvd_Lefferts_Blvd": {
+    "camera_id": "d88837a0-5f2d-4800-b4c8-57970aa929cd",
+    "latitude": 40.67611309999999,
+    "longitude": -73.819122
+  },
+  "Rogers_Ave_Montgomery_St": {
+    "camera_id": "1b874f5c-e1c6-481d-bb85-8d7d92c1793b",
+    "latitude": 40.665855,
+    "longitude": -73.95358999999999
+  },
+  "Roosevelt_Ave_79St": {
+    "camera_id": "57a8e506-1b7d-4a44-94c2-5cb2a4d31b21",
+    "latitude": 40.747352,
+    "longitude": -73.88670499999999
+  },
+  "Roosevelt_Ave_Baxter_Ave": {
+    "camera_id": "c531c196-3944-4318-8c33-92eb2be792ac",
+    "latitude": 40.74779729999999,
+    "longitude": -73.88252609999999
+  },
+  "Roosevelt_Ave_Elmhurst_Ave": {
+    "camera_id": "7374a49f-373d-479a-b630-52bd07639260",
+    "latitude": 40.7484625,
+    "longitude": -73.8762395
+  },
+  "Roosevelt_Ave_Parsons_Blvd": {
+    "camera_id": "1b127707-c45a-40d6-b0d3-8a76d3de6053",
+    "latitude": 40.7616323,
+    "longitude": -73.82207439999999
+  },
+  "School_Rd_Bay_St": {
+    "camera_id": "fbfe89f1-6410-4189-bbeb-7e5fce28bf82",
+    "latitude": 40.6071119,
+    "longitude": -74.0609837
+  },
+  "St_Nicholas_Ave_181_St": {
+    "camera_id": "3ad126cc-3f99-4626-a229-b9ba4d3f4b63",
+    "latitude": 40.8493037,
+    "longitude": -73.9337564
+  },
+  "Stillwell_Ave_Neptune_Ave": {
+    "camera_id": "85d33af1-a82c-499c-b303-a16c8c891fe6",
+    "latitude": 40.5792637,
+    "longitude": -73.9819545
+  },
+  "Sutton_Pl_58_St": {
+    "camera_id": "b1d5d592-9e36-478e-bedc-5fb02d836bc3",
+    "latitude": 40.7580464,
+    "longitude": -73.9602018
+  },
+  "Tillary_St_EB_Jay_St": {
+    "camera_id": "ae67eb8d-0aed-4204-b7a1-3621ed9eef65",
+    "latitude": 40.696079,
+    "longitude": -73.98945599999999
+  },
+  "Van_Dam_St_48_Ave": {
+    "camera_id": "8645493f-d08c-4c0e-a572-b40f5fbeec56",
+    "latitude": 40.7410365,
+    "longitude": -73.93431090000001
+  },
+  "Vanderbilt_Ave_E_45_St": {
+    "camera_id": "e8a479f8-5170-4f1f-b258-b9745c966c71",
+    "latitude": 40.7543545,
+    "longitude": -73.9769759
+  },
+  "Water_St_John_St": {
+    "camera_id": "ecdddb78-10be-47c6-ba27-e5d9da6b9a22",
+    "latitude": 40.7068569,
+    "longitude": -74.00501729999999
+  },
+  "West_Houston_Hudson_St": {
+    "camera_id": "0ff11926-fcf0-4e3b-8aea-ffc0ea4f2228",
+    "latitude": 40.728774,
+    "longitude": -74.0070878
+  },
+  "West_Houston_Varick_St": {
+    "camera_id": "db84e6bd-1436-4213-bbfb-f6e0ceab38c7",
+    "latitude": 40.7286138,
+    "longitude": -74.0053164
+  },
+  "Wythe_Ave_North_12_St": {
+    "camera_id": "6a5f91d8-042f-4678-a722-2c3c560dedf2",
+    "latitude": 40.7222679,
+    "longitude": -73.9574629
+  },
+  "Wythe_Ave_Williamsburg_st_w": {
+    "camera_id": "023cc794-4600-4c02-91e7-4603597172e1",
+    "latitude": 40.701687,
+    "longitude": -73.961609
+  },
+  "York_Ave_72_St": {
+    "camera_id": "d45fb588-de4c-4139-9e27-5b2d4c371b3d",
+    "latitude": 40.7668601,
+    "longitude": -73.95374819999999
+  }
+}

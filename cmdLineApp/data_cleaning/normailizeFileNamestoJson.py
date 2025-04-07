@@ -75,7 +75,7 @@ def doubleUnderscoreRemover():
 
 
 def removebadCameras():
-    json_path = 'cleaned_file.json'  # JSON file with underscore keys
+    json_path = 'cleaned_json.json'  # JSON file with underscore keys
     folder_path = '../traffic_camera_images'    # Folder containing your files
 
     # Load the JSON
@@ -105,12 +105,12 @@ def  main():
 
     #doubleUnderscoreRemover()
 
-    periodRemover()
+    #periodRemover()
 
-    doulbeRemoverFrome_json()
-    backslashRemoverFromjson()
+    #doulbeRemoverFrome_json()
+    #backslashRemoverFromjson()
 
-    #removebadCameras()
+    removebadCameras()
 
 
 if __name__ == "__main__":

@@ -1003,5 +1003,80 @@
         "camera_id": "d45fb588-de4c-4139-9e27-5b2d4c371b3d",
         "latitude": 40.7668601,
         "longitude": -73.95374819999999
+    },
+    "46_St_Bet_5_Ave_&_Madison_Ave": {
+        "camera_id": "2589c0d6-c389-4861-b812-4ae68f560eba",
+        "latitude": 40.7567515,
+        "longitude": -73.91421179999999
+    },
+    "50_St_Btwn_8_Ave_&_Broadway": {
+        "camera_id": "0a49d947-2a5b-498d-a386-2cef5ce883fa",
+        "latitude": 40.636364,
+        "longitude": -73.994774
+    },
+    "7_Ave_23St": {
+      "camera_id": "fcfbaa3d-13e5-4687-9688-ae1eab37c723",
+      "latitude": 40.6576778,
+      "longitude": -73.9900804
+    },
+    "7_AVE___ADAM_CLAYTON_POWELL_BLVD@_125_St": {
+        "camera_id": "9bb33444-d2ec-47bd-952a-174f87013736",
+        "latitude": 40.8089439,
+        "longitude": -73.9482462
+    },
+    "Allan_St_(1_Ave)_Houston_St_(B)": {
+        "camera_id": "98c2de4e-fa0c-41d0-b1ea-6d1df833d792",
+        "latitude": 40.7228366,
+        "longitude": -73.9885841
+    },
+    "Allen_St_Delancey_St_(B)": {
+        "camera_id": "a249b3ee-bde9-4d6d-9a18-9cd2108d2eb0",
+        "latitude": 40.7197262,
+        "longitude": -73.9898989
+    },
+    "Beach_Channel_Dr_@B_32_St": {
+      "camera_id": "4c47eda8-a4a1-4e40-baea-578e0a99e1d8",
+      "latitude": 40.5987496,
+      "longitude": -73.766002
+    },
+    "Beach_Channel_Dr_@B_90_St": {
+        "camera_id": "4b99e17b-d784-4ae3-a8f4-fb20e05895ee",
+        "latitude": null,
+        "longitude": null
+    },
+    "Beach_Channel_Dr_@B_Mott_Ave": {
+        "camera_id": "eca4e591-4ac8-471c-8e76-4710b52e6f9b",
+        "latitude": 40.606096,
+        "longitude": -73.7590958
+    },
+    "Bowery_Cooper_Sq_&_4_St": {
+        "camera_id": "afff9762-e6d4-4b4d-a2e7-60c13763dd16",
+        "latitude": 40.7271162,
+        "longitude": -73.9915934
+    },
+    "Flushing_Ave_Grand_Ave_&_64_St": {
+        "camera_id": "b47d139f-69ae-427e-86b4-f970f9e990e1",
+        "latitude": 40.7228065,
+        "longitude": -73.9017963
+    },
+    "Grand_St_(Borinquen_Pl)_Union_Ave": {
+        "camera_id": "8188de4c-c144-4897-bee4-767022b832e9",
+        "latitude": 40.7109228,
+        "longitude": -73.9520592
+    },
+    "McDonald_Ave_10th_Ave___20th_St": {
+        "camera_id": "f9608ba1-608f-4dad-a8aa-9a9c1978b363",
+        "latitude": null,
+        "longitude": null
+    },
+    "Queens_Plaza_North_2811_(Westside)": {
+        "camera_id": "76ce9adc-f73d-46b7-9ca7-fe6d7521b603",
+        "latitude": 40.7502529,
+        "longitude": -73.9380848
+    },
+    "Van_Dam_St_Bet_48_Ave_&_Hunter_Pt": {
+        "camera_id": "7e36617c-4210-4371-90df-89cfc2d25df2",
+        "latitude": 40.7408338,
+        "longitude": -73.9405329
     }
 }
