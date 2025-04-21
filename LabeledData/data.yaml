@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['open parking', 'parkedCars']
+
+roboflow:
+  workspace: work-qh31v
+  project: my-first-project-kutpe
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/work-qh31v/my-first-project-kutpe/dataset/2
