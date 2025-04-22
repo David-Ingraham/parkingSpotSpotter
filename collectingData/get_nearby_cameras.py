@@ -3,27 +3,17 @@ import requests
 from dotenv import load_dotenv
 import os
 from math import radians, cos, sin, asin, sqrt
+from haversine import haversine
 
-def haversine(lat1, lon1, lat2, lon2):
-    """
-    Calculate the great circle distance in miles between two points 
-    on the Earth (specified in decimal degrees)
-    """
-    # convert decimal degrees to radians 
-    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
 
-    # haversine formula
-    dlon = lon2 - lon1 
-    dlat = lat2 - lat1 
-    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
-    c = 2 * asin(sqrt(a)) 
-    r = 3956  # Radius of Earth in miles. Use 6371 for kilometers
-    return c * r
+
 
 def get_geocode(address, api_key):
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
     params = {
         "address": address,
+            "components": "country:US|administrative_area:NY|locality:New York",
+            "bounds": "40.477399,-74.259090|40.917577,-73.700272",
         "key": api_key
     }
 
@@ -42,7 +32,7 @@ def get_geocode(address, api_key):
         print(f"Request failed: {e}")
         return None, None
 
-def find_nearby_cameras(user_address, camera_data_file, api_key, radius=0.5):
+def find_nearby_cameras(user_address, camera_data_file, api_key, radius=2):
     user_lat, user_lng = get_geocode(user_address, api_key)
     if user_lat is None or user_lng is None:
         print("Failed to get the geocode for the user address.")
@@ -56,11 +46,18 @@ def find_nearby_cameras(user_address, camera_data_file, api_key, radius=0.5):
         return
 
     nearby_cameras = {}
+    user_lat_lngt = (user_lat, user_lng)
+
+    print(user_lat_lngt)
+   #print(camera_data[user_address])
+    
     for address, details in camera_data.items():
         camera_lat = details.get('latitude')
         camera_lng = details.get('longitude')
+        camera_lat_lng = (camera_lat, camera_lng)
         if camera_lat is not None and camera_lng is not None:
-            distance = haversine(user_lat, user_lng, camera_lat, camera_lng)
+            distance = haversine(user_lat_lngt,camera_lat_lng)
+           #print(f'addy: {address}   lat : {camera_lat}    long : {camera_lng}   distance : {distance} ')
             if distance <= radius:
                 nearby_cameras[address] = details
 
@@ -70,10 +67,17 @@ def find_nearby_cameras(user_address, camera_data_file, api_key, radius=0.5):
 load_dotenv(dotenv_path='.env')
 google_maps_api_key = os.getenv('GOOGLEMAPSAPI')
 camera_data_file = 'camera_id_lat_lng_wiped.json'
+addy =   "park ave 86 st"
+addy2 = "10_Ave_42_St"
 
-#data = get_geocode("11_Ave_42_St", google_maps_api_key)
+#data = get_geocode("11_Ave_42_St", google_maps_api_key)#
+#ata = find_nearby_cameras(addy, 'camera_id_lat_lng_wiped.json', google_maps_api_key)
 
-#print(data)
+#ata2= find_nearby_cameras(addy2,'camera_id_lat_lng_wiped.json', google_maps_api_key)
+#rint(f' \n Dictionary of closests cams: {data} \n')
+
+
+   #print(find_nearby_cameras(addy, camera_data_file, google_maps_api_key))
 
 """ 
 if google_maps_api_key:
