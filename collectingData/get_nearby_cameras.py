@@ -32,8 +32,8 @@ def get_geocode(address, api_key):
         print(f"Request failed: {e}")
         return None, None
 
-def find_nearby_cameras(user_address, camera_data_file, api_key, radius=2):
-    user_lat, user_lng = get_geocode(user_address, api_key)
+def find_nearby_cameras(user_lat, user_lng, camera_data_file, api_key, radius=2):
+    
     if user_lat is None or user_lng is None:
         print("Failed to get the geocode for the user address.")
         return

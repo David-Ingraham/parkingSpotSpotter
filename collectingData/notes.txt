@@ -1,0 +1,16 @@
+as of 4/22, the geocoding af the users address string is giving diff results from my json dict, 
+thrwoing off the distance calculations. 
+
+will try to get lat lng data str8 front front end 
+
+in front end i can grab usrs loc and print to screen lat lng. 
+i can hardcode that address with the three dots above the phone
+need to inlcude code to send the lat lng to api instead of just printing it 
+
+backdne code needs to change. i will no longer have to geocode the 
+addy as it come in, i will already have the lats and longs.
+
+in the get nearby cam fucniotn i wont have to call geocode, i can just 
+pass in the http put req from the cleint into the haversine against
+all the coords in my cam json. then good. then issuewith the bitnap decodign 
+allllll over again. 

@@ -5,7 +5,7 @@ from io import BytesIO
 import time
 from sanitize_address import sanitize
 
-def fetch_and_save_image(camera_id, timestamp, address):
+def fetch_and_save_image(camera_id, timestamp):
 
     try:
         api_url = f'https://webcams.nyctmc.org/api/cameras/{camera_id}/image?t={timestamp}'
@@ -16,7 +16,7 @@ def fetch_and_save_image(camera_id, timestamp, address):
         
         if response.status_code == 200:
             img = Image.open(BytesIO(response.content))
-            imgFilePath = f'traffic_camera_images/{(address)}.png'
+            #imgFilePath = f'traffic_camera_images/{(address)}.png'
             #img.save(imgFilePath)
             #print(f"Image saved as {imgFilePath}")
         else:

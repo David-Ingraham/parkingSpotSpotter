@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 
 utc_now = datetime.now(timezone.utc)
 
-camera_data = load_camera_data("camera_addresses_to_id.json")
+camera_data = load_camera_data("camera_id_lat_lng_wiped.json")
 
 
 
