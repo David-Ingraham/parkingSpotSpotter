@@ -1,11 +1,12 @@
 from get_nearby_cameras import find_nearby_cameras, haversine, get_geocode
 from dotenv import load_dotenv
 import os
-from flask import Flask, request, jsonify, send_file, make_response
+from flask import Flask, request, jsonify, send_file, make_response, Response
 from fetch_image import fetch_and_save_image
 import time
 from io import BytesIO
-
+import base64
+from PIL import Image
 
 
 app = Flask(__name__)
@@ -28,8 +29,10 @@ def photo():
 
     cameras = find_nearby_cameras(user_lat, user_lng, camera_data_file, google_maps_api_key)
 
-
-    print(f'nearby cameras:\n{cameras}')
+    if not cameras:
+        return f'sorry no cameras nearby'
+    
+    #print(f'nearby cameras:\n{cameras}')
     cam_id =  list(cameras.values())[0]["camera_id"] #just returning first id of neaby 
     #cameras. will change to pull all five out.
     #will loop over all 5 ids and call fetch_img on each. send each image out to cleint 
@@ -41,24 +44,23 @@ def photo():
     for cam in cameras.keys():
         cam_id_list.append(cameras[cam]['camera_id'])
 
-
+ 
 
     img = fetch_and_save_image(camera_id=cam_id, timestamp=timestamp)
     
 
     buf = BytesIO()
-    img.save(buf, format="PNG")
-    buf.seek(0)
-     
-    
-    response = make_response(send_file(buf, mimetype='image/png',download_name="camera.png"))
-    response.headers["Connection"] = "close"
-    #testResStr = f'sending this out to client :\n{response} '
-    #esponse.headers["Content-Encoding"] = "identity"  # prevent compression
-    #print(testResStr)
-    testStr = 'hello'
+    max_w = 640
+    if img.width > max_w:                     # keep aspect ratio
+        h = int(img.height * max_w / img.width)
+        img = img.resize((max_w, h), Image.LANCZOS)       # high‑quality resample :contentReference[oaicite:0]{index=0}
 
-    return response
+    img.save(buf, format="JPEG", quality=75, optimize=True)   # smaller file :contentReference[oaicite:1]{index=1}
+    payload = buf.getvalue()
+
+    return Response(payload,
+                    mimetype="image/jpeg",
+                    headers={"Content-Length": str(len(payload))})
 
 
 
