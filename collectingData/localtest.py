@@ -32,6 +32,9 @@ def photo():
     if not cameras:
         return f'sorry no cameras nearby'
     
+    else:
+        print(cameras)
+    
     #print(f'nearby cameras:\n{cameras}')
     cam_id =  list(cameras.values())[0]["camera_id"] #just returning first id of neaby 
     #cameras. will change to pull all five out.
@@ -40,14 +43,20 @@ def photo():
 
     timestamp =int(time.time())
 
+
     cam_id_list = []
     for cam in cameras.keys():
         cam_id_list.append(cameras[cam]['camera_id'])
 
  
+  
+
+    
 
     img = fetch_and_save_image(camera_id=cam_id, timestamp=timestamp)
-    
+
+
+  
 
     buf = BytesIO()
     max_w = 640

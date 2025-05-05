@@ -16,9 +16,9 @@ def fetch_and_save_image(camera_id, timestamp):
         
         if response.status_code == 200:
             img = Image.open(BytesIO(response.content))
-            #imgFilePath = f'traffic_camera_images/{(address)}.png'
-            #img.save(imgFilePath)
-            #print(f"Image saved as {imgFilePath}")
+            imgFilePath = f'traffic_camera_images/{(camera_id)}.png'
+            img.save(imgFilePath)
+            print(f"Image saved as {imgFilePath}")
         else:
             print(f"Error: Could not fetch image. Status Code: {response.status_code}")
             numErrs +=1
@@ -41,3 +41,16 @@ def load_camera_data(filepath):
         print("Error: JSON file is malformed.")
         return None
 
+
+
+def main():
+    id = "23994d9e-7e59-4808-8d47-405f779d19cf"
+    timestamp =int(time.time())
+
+
+    fetch_and_save_image(id, timestamp)
+
+
+
+if __name__ == "__main__":
+    main()
