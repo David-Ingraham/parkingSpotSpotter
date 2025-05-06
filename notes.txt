@@ -1,0 +1,6 @@
+have a drop down menu fro cameras addresses, i can get lat lng auto thewn users can select which addy they are near and ill pull up the closest x cameras. 
+
+
+stil working on passing 5 back. backedn gets it and processes it. wheni print the jsonified repsponse it says 200 ok. <<< check on that<<<<<   my frontedn isnt fucking with it tho. 
+
+why cant i parse the json on the frontend? i sent a jpeg over first with the one ond that worked . 
