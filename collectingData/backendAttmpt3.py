@@ -3,7 +3,7 @@ caching the phtos from the camera api in a folde ron ther server so that ther se
 
 give a uri frot he frontd end to access. 
 
-
+current working backend implementation 
 
 """
 
@@ -51,7 +51,11 @@ def photo():
 
             filename = f"{stamp}_{addr.replace(' ', '_')}.jpg"
             path = os.path.join(img_dir, filename)
-            img.save(path, format="JPEG", quality=70, optimize=True)
+            with open(path, 'wb') as f:
+                img.save(f, format="JPEG", quality=70, optimize=True)
+                f.flush()
+                os.fsync(f.fileno())  # <- force write to disk
+
 
             output.append({
                 "address": addr,
